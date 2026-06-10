@@ -36,9 +36,7 @@
 > - Insira aqui uma imagem da visualização criada por você. Troque `imagem-da-visualizacao.png` pelo caminho correto do arquivo no repositório. 
 > - Se você criou alguma visualização interativa, então descreva aqui como acessá-la. Por exemplo, se for uma página HTML, coloque o link, ou se for uma visualização 3D, descreva como compilar e executar o código. 
 
-<mark>`<preencher abaixo>`</mark>
-
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](saida.png)
 
 ## Descrição da visualização
 
