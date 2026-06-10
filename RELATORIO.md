@@ -1,9 +1,5 @@
 # Relatório
 
-> [!CAUTION]
->
-> - Você <ins>**não pode utilizar ferramentas de IA para escrever este relatório**</ins>.
-
 ## Identificação
 
 - **Nome**: Rafael Benjamin Bombach
@@ -11,23 +7,12 @@
 
 ## Dados utilizados
 
-> [!IMPORTANT]
->
-> - Os dados utilizados devem ser informados como **links** para as fontes originais.
-> - Se houver mais de um conjunto de dados, liste todos separadamente.
-> - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
-
 1. **Dataset 1**: https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030
     * **Descrição curta**: Conjunto de dados contendo informações sobre profissões, risco de substituição por inteligência artificial, demanda futura prevista, salários, habilidades requeridas e tendências de contratação até 2030.
 
 ## Código-fonte da visualização
 
-> [!IMPORTANT]
->
-> - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
-
-- **Arquivo principal**: <mark>`<preencher>`</mark>
-- **Arquivos complementares (se houver)**: <mark>`<preencher>`</mark>
+- **Arquivo principal**: LabVisu.ipynb
 
 ## Imagem da visualização gerada
 
