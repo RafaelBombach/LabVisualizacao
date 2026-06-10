@@ -49,7 +49,7 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`<preencher>`</mark>
+   O eixo horizontal representa o risco médio de substituição por inteligência artificial, enquanto o eixo vertical representa a demanda futura prevista para cada profissão. Cada ponto corresponde a uma profissão e o tamanho da bolha é proporcional ao salário médio. As linhas tracejadas indicam os valores médios e ajudam a dividir o gráfico em regiões com características semelhantes.
 
 ### Conclusão demonstrada pela visualização
 
@@ -58,4 +58,4 @@
 > - Escreva uma conclusão curta sobre os dados com base na visualização.
 > - Explique qual insight, padrão ou tendência pode ser observado.
 
-<mark>`<preencher>`</mark>
+   A visualização mostra que o impacto da IA no mercado de trabalho não é tão simples quanto apenas substituir pessoas. Existem profissões com alto risco de automação que ainda apresentam uma demanda futura elevada, indicando que muitas funções devem passar por mudanças em vez de desaparecer completamente. Também é possível perceber que profissões com salários maiores aparecem em diferentes situações, mostrando que o salário, sozinho, não determina o risco ou o crescimento esperado da profissão.
