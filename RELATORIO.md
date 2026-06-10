@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: Rafael Benjamin Bombach
+- **Cartão UFRGS:** 00342854
 
 ## Dados utilizados
 
@@ -17,7 +17,7 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
+1. **Dataset 1**: <mark>https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030</mark>
     * **Descrição curta**: <mark>`<preencher>`</mark>
 2. **Dataset 2**: <mark>`<link>`</mark>
     * **Descrição curta**: <mark>`<preencher>`</mark>
