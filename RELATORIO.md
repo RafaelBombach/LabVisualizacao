@@ -9,7 +9,7 @@
 
 1. **Dataset 1**: https://github.com/karpathy/jobs/blob/master/occupations.csv
     * **Descrição curta**: Dados do BLS (Bureau of Labor Statistics dos EUA) com informações de 342 ocupações: salário mediano, escolaridade exigida, volume de empregos em 2024 e projeção de crescimento até 2034, organizadas em 25 categorias profissionais.
-   **Dataset 2**: https://github.com/karpathy/jobs/blob/master/scores.json
+2. **Dataset 2**: https://github.com/karpathy/jobs/blob/master/scores.json
     * **Descrição curta**: Pontuação de exposição à IA (escala de 1 a 10) para cada uma das 342 ocupações, acompanhada de uma justificativa textual. Quanto maior a nota, maior a substituibilidade da ocupação por inteligência artificial.
 
 ## Código-fonte da visualização
