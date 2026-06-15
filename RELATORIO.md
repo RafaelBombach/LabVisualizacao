@@ -16,7 +16,7 @@
 
 ## Imagem da visualização gerada
 
-![Visualização resultante](saida.png)
+![Visualização resultante](visualizacao_ia_ocupacoes.png)
 
 ## Descrição da visualização
 
