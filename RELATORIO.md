@@ -7,12 +7,14 @@
 
 ## Dados utilizados
 
-1. **Dataset 1**: https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030
-    * **Descrição curta**: Conjunto de dados contendo informações sobre profissões, risco de substituição por inteligência artificial, demanda futura prevista, salários, habilidades requeridas e tendências de contratação até 2030.
+1. **Dataset 1**: https://github.com/karpathy/jobs/blob/master/occupations.csv
+    * **Descrição curta**: Dados do BLS (Bureau of Labor Statistics dos EUA) com informações de 342 ocupações: salário mediano, escolaridade exigida, volume de empregos em 2024 e projeção de crescimento até 2034, organizadas em 25 categorias profissionais.
+   **Dataset 2**: https://github.com/karpathy/jobs/blob/master/scores.json
+    * **Descrição curta**: Pontuação de exposição à IA (escala de 1 a 10) para cada uma das 342 ocupações, acompanhada de uma justificativa textual. Quanto maior a nota, maior a substituibilidade da ocupação por inteligência artificial.
 
 ## Código-fonte da visualização
 
-- **Arquivo principal**: LabVisu.ipynb
+- **Arquivo principal**: laboraorio.ipynb
 
 ## Imagem da visualização gerada
 
@@ -22,8 +24,9 @@
 
 ### Legenda (*caption*)
 
-   O eixo horizontal representa o risco médio de substituição por inteligência artificial, enquanto o eixo vertical representa a demanda futura prevista para cada profissão. Cada ponto corresponde a uma profissão e o tamanho da bolha é proporcional ao salário médio. As linhas tracejadas indicam os valores médios e ajudam a dividir o gráfico em regiões com características semelhantes.
+   O gráfico de bolhas mostra, para cada grande categoria de ocupações norte-americanas, a relação entre a exposição média à IA (eixo X, escala de 1 a 10) e o crescimento projetado de emprego entre 2024 e 2034 (eixo Y, em %). O tamanho de cada bolha é proporcional ao volume total de trabalhadores na categoria em 2024, e a cor vai do azul (baixa exposição) ao vermelho (alta exposição). A linha tracejada horizontal marca crescimento zero; a linha diagonal representa a tendência linear entre as variáveis.
 
 ### Conclusão demonstrada pela visualização
 
-   A visualização mostra que o impacto da IA no mercado de trabalho não é tão simples quanto apenas substituir pessoas. Existem profissões com alto risco de automação que ainda apresentam uma demanda futura elevada, indicando que muitas funções devem passar por mudanças em vez de desaparecer completamente. Também é possível perceber que profissões com salários maiores aparecem em diferentes situações, mostrando que o salário, sozinho, não determina o risco ou o crescimento esperado da profissão.
+   O gráfico mostra uma tendência clara: ocupações com alta exposição à IA tendem a ter perspectivas de crescimento menores. Categorias grandes como Administrativo e Vendas — repletas de tarefas repetitivas e baseadas em processamento de informação — aparecem na zona de risco, enquanto Saúde, Construção e Serviço Social, que dependem de presença física e julgamento humano, lideram o crescimento projetado.
+O caso mais interessante é o de TI e Computação, que mesmo com exposição moderada-alta apresenta crescimento acima da média. Isso sugere que a IA, nesse setor, amplifica o trabalho humano em vez de substituí-lo, o que contraria a intuição de muita gente e indica que o impacto da IA no mercado de trabalho é mais seletivo do que catastrófico.
