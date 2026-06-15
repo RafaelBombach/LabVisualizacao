@@ -28,5 +28,5 @@
 
 ### Conclusão demonstrada pela visualização
 
-   O gráfico mostra uma tendência clara: ocupações com alta exposição à IA tendem a ter perspectivas de crescimento menores. Categorias grandes como Administrativo e Vendas — repletas de tarefas repetitivas e baseadas em processamento de informação — aparecem na zona de risco, enquanto Saúde, Construção e Serviço Social, que dependem de presença física e julgamento humano, lideram o crescimento projetado.
-O caso mais interessante é o de TI e Computação, que mesmo com exposição moderada-alta apresenta crescimento acima da média. Isso sugere que a IA, nesse setor, amplifica o trabalho humano em vez de substituí-lo, o que contraria a intuição de muita gente e indica que o impacto da IA no mercado de trabalho é mais seletivo do que catastrófico.
+   O gráfico mostra uma tendência clara: ocupações com alta exposição à IA tendem a ter perspectivas de crescimento menores. Categorias grandes como Administrativo e Vendas, caracterizdas por tarefas repetitivas e baseadas em processamento de informação, aparecem na zona de risco, enquanto Saúde, Construção e Serviço Social, que dependem de presença física e julgamento humano, lideram o crescimento projetado.
+   O caso mais interessante é o de TI e Computação, que mesmo com exposição moderada-alta apresenta crescimento acima da média. Isso sugere que a IA, nesse setor, amplifica o trabalho humano em vez de substituí-lo, o que contraria a intuição de muita gente e indica que o impacto da IA no mercado de trabalho é mais seletivo do que catastrófico.
